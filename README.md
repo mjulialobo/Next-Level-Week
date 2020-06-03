@@ -14,3 +14,4 @@
   <p> No segundo dia da Next Level Week, começamos a desenvolver a página de cadastro de novos pontos de coleta. Iniciamos a aula nos dedicando a estética da página utilizando CSS e HTML, e depois aprendemos o básico de JavaScript para utilizar uma API na nossa seleção de Cidades e Estados, para dessa forma, quando usuário seleciona seu estado, a lista de cidades é atualizada automaticamente com as opções correspondentes. </p>
   <p> Resultado: </p>
   <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/imagesfinal/Dia%202%20cadastro%20parte%201.PNG>
+  <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/dia%202%20selecao%20de%20cidade.jpg>
