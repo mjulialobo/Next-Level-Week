@@ -24,7 +24,7 @@
    <p> minha versão: </p>
   <img src =https://github.com/mjulialobo/Next-Level-Week/blob/master/imagesfinal/cadastrofinalizado%20dia3.PNG>
   <br>
-  <p> Em seguida, desenvolvemos o modal da pesquisa de pontos de coletas já cadastrados. O professor Mayk Brito criou uma página de fundo preto transparente com um input e botão. Para tornar a página mais atrativa visualmente e seguir a proposta de manter a identidade visual, optei por utilizar 2 inputs e botão, além de utilizar a cor roxa para o fundo. Abaixo, a comparação das duas versões </p>
+  <p> Em seguida, desenvolvemos o modal da pesquisa de pontos de coletas já cadastrados. O professor Mayk Brito criou uma página de fundo preto transparente com um input e botão. Para tornar a página mais atrativa visualmente e seguir a proposta de manter a identidade visual, optei por utilizar 2 inputs e botão, além de utilizar a cor roxa para o fundo. Abaixo, a comparação das duas versões. </p>
     <p> proposta do professor: </p>
   <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/proposta%20prof%20pontos.PNG>
    <p> minha versão: </p>
