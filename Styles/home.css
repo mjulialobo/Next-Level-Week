@@ -1,6 +1,6 @@
 #page-home { 
     height: 100vh;
-    background: url(/extras-aula-1/icones/home-background.svg) no-repeat;
+    background: url(/ProjetoFinal/extras-aula-1/icones/home-background.svg) no-repeat;
     background-position: 35vw bottom;
 }
 #page-home .content {
@@ -26,7 +26,7 @@
 #page-home header a span {
     margin-right: 16px; 
     display: flex;
-    background-image: url(/extras-aula-1/icones/log-in.svg); width: 20px; height:20px ;
+    background-image: url(/ProjetoFinal/extras-aula-1/icones/log-in.svg); width: 20px; height:20px ;
 }
 #page-home main {
     max-width: 560px; 
@@ -62,7 +62,7 @@
 }
 #page-home main a span::after{
     content:"";
-    background-image: url(/extras-aula-1//icones/search.svg);       
+    background-image: url(/ProjetoFinal/extras-aula-1/icones/search.svg);       
     width: 20px;
      height: 20px;
 }

@@ -7,18 +7,18 @@
    
      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&family=Ubuntu:wght@700&display=swap" rel="stylesheet">  
    
-     <link rel="stylesheet" href="/styles/main.css">
+     <link rel="stylesheet" href="/ProjetoFinal/Styles/main.css">
      
-     <link rel="stylesheet" href="/styles/create-point.css">
+     <link rel="stylesheet" href="/ProjetoFinal/Styles/create-point.css">
    
-     <link rel="stylesheet" href="/styles/responsive.css">
+     <link rel="stylesheet" href="/ProjetoFinal/Styles/responsive.css">
  </head>
  <body>
         <div id="page-create-point">
       
             <header>
-            <img src="/extras-aula-1/icones/logo.svg" alt="logomarca">
-            <a href="#"> <span></span>Voltar para Home</a>
+            <img src="/ProjetoFinal/extras-aula-1/icones/logo.svg" alt="logomarca">
+            <a href="/ProjetoFinal/index.html"> <span></span>Voltar para Home</a>
             </header>
     
             <form action="">
@@ -27,22 +27,22 @@
         <fieldset>
             <legend>
             <h2>Dados de coleta</h2>
-             </legend>
+            </legend>
 
             <div class="field">
                 <label for="name">Nome da Entidade</label>
-                <input type="text" name="name">
+                <input type="text" name="name" required>
             </div>
 
             <div class="field-group">
                 <div class="field">
                     <label for "address">Endereço</label>
-                    <input type="text" name="adress">
+                    <input type="text" name="adress"required>
                 </div>
                
                 <div class="field">
                     <label for="address2">Número/complemento</label>
-                    <input type="text" name="address2">
+                    <input type="text" name="address2" required>
                 </div>
     
             </div>
@@ -51,20 +51,18 @@
                 <div class="field">
                     <label for="state">Estado</label>
                     <select name="uf">
-                        <option value="">Selecione o estado</option>
+                    <option value="">Selecione o estado</option>
                     </select>
-                    <input type="hidden" name="state">
+                    <input type="hidden" name="state"required>
                 </div>
 
                 <div class="field">
                     <label for="city">Cidade</label>
-                     <select name="city"disabled>
-                        <option value="">Selecione a cidade</option>
+                    <select name="city"disabled required>
+                    <option value="">Selecione a cidade</option>
                     </select>
-                    
                 </div>
             
-
             </div>
 
             <button type="submit">Cadastrar ponto de coleta</button>
@@ -72,10 +70,48 @@
         </fieldset>
 
                 <fieldset>   
-           
+                    <legend>
+                    <h2>Ítens de Coleta</h2>
+                    </legend>
+
+                    <div class="items-grid">
+                        <li data-id=1">
+                            <img src="/ProjetoFinal/extras-aula-1/icones/lampadas.svg" alt="Lâmpadas">
+                            <span>Lâmpadas</span>
+                        </li>
+                        
+                        <li data-id=2>
+                            <img src="/ProjetoFinal/extras-aula-1/icones/baterias.svg" alt="Pilhas e Baterias">
+                            <span>Pilhas e Baterias</span>
+                        </li>
+
+                        <li data-id=3>
+                            <img src="/ProjetoFinal/extras-aula-1/icones/papeis-papelao.svg" alt="Papéis e Papelão">
+                            <span>Papéis e Papelão</span>
+                        </li>
+
+                        <li data-id=4>
+                            <img src="/ProjetoFinal/extras-aula-1/icones/eletronicos.svg" alt="Resíduos Eletrônicos">
+                            <span>Resíduos Eletrônicos</span>
+                        </li>
+
+                        <li data-id=5>
+                            <img src="/ProjetoFinal/extras-aula-1/icones/organicos.svg" alt="Resíduos Orgânicos">
+                            <span>Resíduos Orgânicos</span>
+                        </li>
+
+                        <li data-id=6>
+                            <img src="/ProjetoFinal/extras-aula-1/icones/oleo.svg" alt="Óleo de Cozinha">
+                            <span>Óleo de Cozinha</span>
+                        </li>
+                    </div>
+                   
+                        <input type="hidden" name="items">
+              
                 </fieldset>
+               
             </form>
         </div>
-    <script src="/scripts/create-point.js"></script>
+    <script src="/ProjetoFinal/scripts/create-point.js"></script>
  </body>
 </html>
