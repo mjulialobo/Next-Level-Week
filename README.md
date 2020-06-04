@@ -15,3 +15,23 @@
   <p> Resultado: </p>
   <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/imagesfinal/Dia%202%20cadastro%20parte%201.PNG>
   <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/dia%202%20selecao%20de%20cidade.jpg>
+  
+ <h3> Dia 3 </h3>
+  <p> Um pouco mais agitado, no dia 3 trabalhamos em 3 páginas (rs) nas quais tomei a liberdade de utilizar um pouco mais de criatividade para fazer altumas alterações estéticas. Começamos o dia finalizando a página de cadastro de novos pontos de coleta, primeiro utilizamos HTML e CSS para criar a grid, e com JavaScript, conseguimos fazer com que o formulário reconheça as opções de tipos de objetos a serem reciclados selecionados, possibilitando que o usuário selecione mais de uma opção. </p>
+  <p> Escolhi utilizar no grid um tom de verde para facilitar a visualização da divisão dos elementos, e quando selecionados, os elementos se tornam roxos, também facilitando a visualização. Ambas as cores seguem a identidade visual da Ecoleta. </p>
+  <p> proposta do professor: </p>
+  <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/proposta%20prof%20cadastro.PNG>
+   <p> minha versão: </p>
+  <img src =https://github.com/mjulialobo/Next-Level-Week/blob/master/imagesfinal/cadastrofinalizado%20dia3.PNG>
+  <br>
+  <p> Em seguida, desenvolvemos o modal da pesquisa de pontos de coletas já cadastrados. O professor Mayk Brito criou uma página de fundo preto transparente com um input e botão. Para tornar a página mais atrativa visualmente e seguir a proposta de manter a identidade visual, optei por utilizar 2 inputs e botão, além de utilizar a cor roxa para o fundo. Abaixo, a comparação das duas versões </p>
+    <p> proposta do professor: </p>
+  <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/proposta%20prof%20pontos.PNG>
+   <p> minha versão: </p>
+  <img src =https://github.com/mjulialobo/Next-Level-Week/blob/master/imagesfinal/busca%20pontos%20dia%203.PNG>
+  <br>
+   <p> E por fim, desenvolvemos a página de resultados de pesquisa, que por enquanto, está populada com resultados falsos.</p>
+    <p> proposta do professor: </p>
+  <img src = https://github.com/mjulialobo/Next-Level-Week/blob/master/pagina%20resultado%20prof.PNG>
+   <p> minha versão: </p>
+  <img src =https://github.com/mjulialobo/Next-Level-Week/blob/master/imagesfinal/resultado%20busca%20dia3.PNG>
