@@ -14,12 +14,9 @@
 
 <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> Como usar </h2>
 <p> <ul> <li> <h4> Pré-requisitos <h4> </li> </ul>
-  <ul style= circle> <li> É necessário possuir o <a href="https://nodejs.org/en/">Node.js</a> instalado na mágina </li> 
-    <li> É necessário instalar o módulo Nunjucks no Visual Studio Code </li> 
-  <li> É necessário instalar a dependência Express</ul>
-   <li> É necessário instalar a dependência Nodemoon</ul>
-
-
+  <ul style= circle> <li> É necessário possuir o <a href="https://nodejs.org/en/">Node.js</a> instalado na mágina </li> </ul>
+   
+<h2> Steps <h2>
 <h4> 1. Faça um clone <h4>
 <img src = "https://user-images.githubusercontent.com/65983895/83829879-4af63a00-a6ba-11ea-88a4-8b9bb15c9b8a.PNG"> <br>
 
