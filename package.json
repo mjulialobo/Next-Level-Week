@@ -1,0 +1,27 @@
+{
+  "name": "projetofinal",
+  "version": "1.0.0",
+  "description": "<h1> O que é a Next Level Week? </h1>\r   <p> Durante a primeira semana de junho de 2020, a Rocketseat disponibilizou um curso para desenvolver uma aplicação completa do 0. No projeto de nível Starter, dedicarei 7 dias para o projeto Ecoleta. Para construir a aplicação utilizaremos conhecimentos de HTML, CSS e Javascript. </p>",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjulialobo/Next-Level-Week.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjulialobo/Next-Level-Week/issues"
+  },
+  "homepage": "https://github.com/mjulialobo/Next-Level-Week#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
