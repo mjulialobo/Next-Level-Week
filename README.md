@@ -26,7 +26,8 @@
 
 
 
-<h3> Resultado<h3>
+<h3> <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/hackerman__-profile_image-ab897011d7c7bb16-300x300.jpeg" width="70px" height="70px" align="center"/> Resultados </h3>
+
  <img src = "https://user-images.githubusercontent.com/65983895/83832034-146eee00-a6bf-11ea-8370-08ed370d374d.gif">
  <p> Para ver imagens mais detalhadas do resultado por etapas,<a href="https://github.com/mjulialobo/Next-Level-Week/tree/master/imagesfinal"> clique aqui!</a></p>
  
