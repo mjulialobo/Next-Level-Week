@@ -14,3 +14,9 @@
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+# Ignore all data  metadata/plugins/
+metadata/plugins/nome-do-plugin
+
+# To ignore all files and subfolders located in the folder \Users\Pichau\Desktop\nextlevelweek\projetofinal\node_modules
+# To ignore all files and subfolders in the node_modules folder
