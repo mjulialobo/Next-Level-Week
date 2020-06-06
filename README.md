@@ -40,7 +40,7 @@
  
  
  <h3> <img src ="https://cdn0.iconfinder.com/data/icons/financial-management-1/64/84-512.png"width="50px" height="50px" align="center" /> Mudanças no projeto origial <h3>
-<p> Poucas, mas que fazem a diferença. </p>
+<h6> Poucas, mas que fazem a diferença. </h6>
 
 <h4> Na página de busca - modal </h4> 
  <ul> <li> <p> Botão maior <p> </li>
