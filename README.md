@@ -40,20 +40,25 @@
  
  
  <h3> <img src ="https://cdn0.iconfinder.com/data/icons/financial-management-1/64/84-512.png"width="50px" height="50px" align="center" /> Mudanças no projeto origial <h3>
-  <h5> Poucas, mas que fazem a diferença </h5>
- <h4> Na página de busca - modal </h4> 
+ <p> <i> Poucas, mas que fazem a diferença. </i> </p>
+
+<h4> Na página de busca - modal </h4> 
  <ul> <li> <p> Botão maior <p> </li>
    <li> <p> Fundo em roxo com transparência para valorizar a imagem de fundo <p> </li>
    <li> <p> Tamanho de fontes <p> </li> </ul>
+   
    <h4> Na página de cadastro </h4> 
  <ul> <li> <p> Mudança na cor dos itens, tornando o fundo verde <p> </li>
    <li> <p> Mudança na cor dos itens após o clique, tornando roxo <p> </li>
    <li> <p> Mudança no fundo do modal de cadastro concluído, tornando o fundo roxo com transparência <p> </li> 
    <li> <p> Mudança no fundo do modal de erro no cadastro, tornando o fundo roxo e adicionando um ícone de X <p> </li>  </ul>
-     <h4> Na página de resultados </h4> 
+    
+  <h4> Na página de resultados </h4> 
  <ul> <li> <p> Mudanças nas cores de fundo para tornar mais atrativo e seguir o verde e roxo da Ecoleta <p> </li>
    <li> <p> Mudanças nas fontes e suas cores para melhor visualização do usuário <p> </li></ul>
-    <h4> No geral </h4> 
+   
+   
+  <h4> No geral </h4> 
  <ul> <li> <p> Mudanças de tamanhos de fontes <p> </li>
    <li> <p> Mudanças nas cores de fontes e objetos <p> </li></ul>
 
